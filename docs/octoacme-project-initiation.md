@@ -36,6 +36,38 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
 
+### Role-Specific Actions
+**Product Manager:**
+- [ ] Define problem statement and success metrics in one-pager
+- [ ] Identify and align primary stakeholders
+- [ ] Document initial scope and constraints
+
+**Project Manager:**
+- [ ] Create stakeholder communication plan
+- [ ] Document high-level timeline and milestones
+- [ ] Identify initial risks and dependencies
+- [ ] Estimate resource needs and team composition
+
+**Business Analyst:**
+- [ ] Gather and document initial business requirements
+- [ ] Identify key business processes affected
+- [ ] List stakeholder groups for requirement workshops
+
+**Technical Lead:**
+- [ ] Assess technical feasibility and constraints
+- [ ] Identify potential architectural considerations
+- [ ] Estimate technical complexity and effort
+
+**UX Designer:**
+- [ ] Identify user research needs
+- [ ] Note any existing design patterns or constraints
+- [ ] Plan initial usability considerations
+
+**Scrum Master:**
+- [ ] Verify team availability and capacity
+- [ ] Identify potential process or ceremony needs
+- [ ] Note any impediments to starting work
+
 ## Decision Gate
 Move to planning when:
 - Success metrics are clear
