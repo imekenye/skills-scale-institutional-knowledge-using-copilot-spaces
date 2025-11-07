@@ -124,7 +124,10 @@ Effective planning requires coordinated input from multiple roles:
 ### Decision-Making Framework
 - **Product Scope**: Product Manager decides with input from Business Analyst and stakeholders
 - **Technical Approach**: Technical Lead decides with input from Developers
-- **Schedule/Resources**: Team self-organizes around capacity; Scrum Master facilitates; Project Manager coordinates external dependencies and communicates constraints
+- **Schedule/Resources**: 
+  - Team self-organizes around capacity and commitments
+  - Scrum Master facilitates team planning and protects from external pressure
+  - Project Manager coordinates external dependencies and communicates constraints
 - **User Experience**: UX Designer decides with validation from Product Manager and users
 - **Process Improvements**: Scrum Master facilitates team decision-making
 

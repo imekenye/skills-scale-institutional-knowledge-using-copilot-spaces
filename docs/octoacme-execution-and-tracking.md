@@ -105,9 +105,9 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - UX Designer: Clarify design questions or review implementations
 
 **Escalation Flow:**
-- Level 1 (Immediate): Scrum Master or Technical Lead resolves
-- Level 2 (Same Day): Project Manager coordinates with other teams
-- Level 3 (Business Impact): Product Manager escalates to leadership
+- Level 1 (Team-Resolved): Scrum Master or Technical Lead resolves within the team
+- Level 2 (Cross-Team): Project Manager coordinates with dependent teams
+- Level 3 (Leadership): Product Manager escalates business-critical issues to leadership
 
 ### Work-in-Progress Collaboration
 
@@ -151,8 +151,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 ### Communication Channels by Purpose
 
 **Real-time Questions:**
+- Direct message to Scrum Master or Technical Lead for immediate blockers
 - Team chat channel for quick clarifications
-- Scrum Master or Technical Lead for immediate blockers
 
 **Asynchronous Updates:**
 - PR comments for code-specific discussions
